@@ -1,0 +1,5 @@
+name: wizard_task7_qa_public
+version: '1.0'
+config-version: 2
+profile: wizard_task7_qa_public
+model-paths: [models]
